@@ -9,7 +9,7 @@ Matías Lazo Núñez · Esteban Alonso Toloza Araneda · Abraham Becerra Muñoz.
 - **Swagger UI (Elastic IP indicada por el equipo):** http://54.243.53.206:3001/api-docs/
 - **OpenAPI JSON:** http://54.243.53.206:3001/api-docs.json
 - **Health:** http://54.243.53.206:3001/api/v1/health
-- **Repositorio público del frontend:** PENDIENTE DE CREAR / PEGAR URL REAL.
+- **Repositorio público del frontend: https://github.com/abbecerra/NutriVida-Frontend
 - Repositorio conjunto de origen: https://github.com/matias-nu/NutriVida.P2
 
 La dirección Swagger solo estará accesible si la instancia EC2 está encendida, la API escucha en 3001 y el grupo de seguridad permite el acceso. El equipo comprobó HTTP 200 en localhost y la anterior IP pública; verificar de nuevo la nueva Elastic IP antes del envío.
